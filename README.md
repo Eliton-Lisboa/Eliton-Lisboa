@@ -6,6 +6,8 @@
 - 🐱 Adoro animais e a atenção que eles dão
 - 📕 Adoro criar documentações de projetos
 
-### Eu sei todas essas tecnologias e feramentas abaixo 😅
+#### Eu sei todas essas tecnologias e feramentas abaixo 😅
 
-[<img align='left' alt='Visual Studio Code' width='26px' src='https://img.icons8.com/fluent/2x/visual-studio-code-2019.png'/>]
+[<img align='left' alt='Visual Studio Code' width='26px' src='https://img.icons8.com/fluent/2x/visual-studio-code-2019.png'/>][vscode]
+
+[vscode]: https://code.visualstudio.com/
