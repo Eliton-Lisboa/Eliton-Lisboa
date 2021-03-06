@@ -29,7 +29,7 @@
 [<img align='left' alt='Cobol' width='26px' src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbitlang.gallerycdn.vsassets.io%2Fextensions%2Fbitlang%2Fcobol%2F6.8.5%2F1601756969450%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1'>][cobol]
 [<img align='left' alt='Css' width='26px' src='https://img.icons8.com/color/2x/css3.png'>][css]
 [<img align='left' alt='D' width='26px' src='https://duckduckgo.com/i/c9eadfa8.png'>][d]
-<br/>
+<br/><br/>
 [<img align='left' alt='Fortran90' width='26px' src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb6%2FFortran.png&f=1&nofb=1'>][fortran90]
 [<img align='left' alt='Html' width='26px' src='https://img.icons8.com/color/2x/html-5.png'>][html]
 [<img align='left' alt='JavaScript' width='26px' src='https://img.icons8.com/color/2x/javascript.png'>][javascript]
