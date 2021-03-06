@@ -41,5 +41,5 @@
 [brainfuck]: https://en.wikipedia.org/wiki/Brainfuck/
 [c]: https://en.wikipedia.org/wiki/C_%28programming_language%29/
 [cpp]: https://en.wikipedia.org/wiki/C%2B%2B/
-[cp]: https://docs.microsoft.com/en-us/dotnet/csharp/
+[cs]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [cobol]: https://en.wikipedia.org/wiki/COBOL/
