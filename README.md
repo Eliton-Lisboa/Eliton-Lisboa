@@ -13,7 +13,7 @@
 [<img align='left' alt='Open Cobol IDE' width='26px' src='https://avatars.githubusercontent.com/u/6609701?s=200&v=4'>][opencobolide]
 [<img align='left' alt='Sublime text' width='26px' src='https://img.icons8.com/fluent/2x/sublime-text.png'>][sublimetext]
 [<img align='left' alt='Git' width='26px' src='https://img.icons8.com/color/2x/git.png'>][git]
-[<img align='left' alt='GitHub' width='26px' src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fpreview%2Fwhite%2Fgithub-11-xxl.png&f=1&nofb=1'>][github]
+[<img align='left' alt='GitHub' width='26px' src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.shareicon.net%2Fdata%2F2016%2F06%2F20%2F606964_github_4096x4096.png&f=1&nofb=1'>][github]
 [<img align='left' alt='Spck' width='26px' src='https://play-lh.googleusercontent.com/R_FnpHpBwRVEA2bGeXMLp4IdfESrnJaKK8Wsx4bLOGLmRXNRozTGSLlsUaw3XyykfHE=s180-rw'>][spck]
 [<img align='left' alt='Vim' width='26px' src='https://www.vim.org/images/vim_small.gif'>][vim]
 
