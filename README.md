@@ -36,8 +36,8 @@
 [<img align='left' alt='Pug' width='26px' src='https://img.icons8.com/color/2x/pug.png'>][pug]
 [<img align='left' alt='Sass' width='26px' src='https://img.icons8.com/color/2x/sass.png'>][sass]
 [<img align='left' alt='TypeScript' width='26px' src='https://img.icons8.com/color/2x/typescript.png'>][typescript]
-[<img align='left' alt='VBScript' width='26px' src=''>][vbscript]
-[<img align='left' alt='' width='26px' src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.tenforums.com%2Fgeek%2Fgars%2Fimages%2F2%2Ftypes%2Fthumb_VBS_file.png&f=1&nofb=1'>][vbscript]
+[<img align='left' alt='VBScript' width='26px' src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.tenforums.com%2Fgeek%2Fgars%2Fimages%2F2%2Ftypes%2Fthumb_VBS_file.png&f=1&nofb=1'>][vbscript]
+[<img align='left' alt='' width='26px' src=''>][]
 
 <!-- Links -->
 [vscode]: https://code.visualstudio.com/
