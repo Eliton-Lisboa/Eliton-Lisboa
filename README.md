@@ -55,8 +55,8 @@ oferta de jovem aprendiz. 😄
 <br/><br/>
 #### Entre contato comigo 📱💻😃
 
-Whatsapp: +5551993803517
-Facebook: Eliton Lisboa
+Whatsapp: +5551993803517  
+Facebook: Eliton Lisboa  
 GitHub: Eliton-Lisboa
 
 <!-- Links -->
