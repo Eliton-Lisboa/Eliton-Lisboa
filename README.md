@@ -47,6 +47,9 @@ batch script [esse](https://youtu.be/AQXwYR5Mf1o) foi o primeiro video que eu vi
 programar, os comandos basicos dessa linguagem eu aprendi sozinho. Com 14 anos eu comecei  
 a aprender linguagens de verdade como C#, e com 15 anos eu já sabia backend e fontend web.
 
+Eu ainda não comecei a trabalhar na area por calsa da idade, mas adoraria uma  
+oferta de jovem aprendiz. 😄
+
 <!-- Links -->
 [vscode]: https://code.visualstudio.com/
 [visualstudio]: https://visualstudio.com/
