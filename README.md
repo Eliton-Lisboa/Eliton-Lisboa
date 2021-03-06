@@ -35,9 +35,11 @@
 [<img align='left' alt='JavaScript' width='26px' src='https://img.icons8.com/color/2x/javascript.png'>][javascript]
 [<img align='left' alt='PHP' width='26px' src='https://img.icons8.com/offices/2x/php-logo.png'>][php]
 [<img align='left' alt='Pug' width='26px' src='https://img.icons8.com/color/2x/pug.png'>][pug]
+[<img align='left' alt='Ruby' width='26px' src='https://img.icons8.com/color/2x/ruby-programming-language.png'>][ruby]
 [<img align='left' alt='Sass' width='26px' src='https://img.icons8.com/color/2x/sass.png'>][sass]
 [<img align='left' alt='TypeScript' width='26px' src='https://img.icons8.com/color/2x/typescript.png'>][typescript]
 [<img align='left' alt='VBScript' width='26px' src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhelloacm.com%2Fwp-content%2Fuploads%2F2018%2F05%2Fvbscript.png&f=1&nofb=1'>][vbscript]
+<br/><br/>
 [<img align='left' alt='Node' width='26px' src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhumancoders-formations.s3.amazonaws.com%2Fuploads%2Fcourse%2Flogo%2F14%2Fthumb_bigger_formation-node-js.png&f=1&nofb=1'>][node]
 
 <br/><br/>
@@ -77,3 +79,4 @@ oferta de jovem aprendiz. 😄
 [typescript]: https://www.typescriptlang.org/
 [vbscript]: https://en.wikipedia.org/wiki/VBScript/
 [node]: https://nodejs.org/
+[ruby]: https://www.ruby-lang.org/en/
