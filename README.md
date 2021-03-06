@@ -17,7 +17,9 @@
 [<img align='left' alt='Spck' width='26px' src='https://play-lh.googleusercontent.com/R_FnpHpBwRVEA2bGeXMLp4IdfESrnJaKK8Wsx4bLOGLmRXNRozTGSLlsUaw3XyykfHE=s180-rw'>][spck]
 [<img align='left' alt='Vim' width='26px' src='https://www.vim.org/images/vim_small.gif'>][vim]
 
-<br/><br/>
+
+
+
 #### Eu sei todas essas tecnologias aqui em baixo 😃
 
 [<img align='left' alt='Algol68G' width='26px' src='https://a.fsdn.com/allura/p/algol68/icon?1396057608?&w=90'>][algol68g]
