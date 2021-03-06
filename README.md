@@ -30,6 +30,14 @@
 [<img align='left' alt='Css' width='26px' src='https://img.icons8.com/color/2x/css3.png'>][css]
 [<img align='left' alt='D' width='26px' src='https://duckduckgo.com/i/c9eadfa8.png'>][d]
 [<img align='left' alt='Fortran90' width='26px' src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb6%2FFortran.png&f=1&nofb=1'>][fortran90]
+[<img align='left' alt='Html' width='26px' src='https://img.icons8.com/color/2x/html-5.png'>][html]
+[<img align='left' alt='JavaScript' width='26px' src='https://img.icons8.com/color/2x/javascript.png'>][javascript]
+[<img align='left' alt='PHP' width='26px' src='https://img.icons8.com/windows/2x/php-logo.png'>][php]
+[<img align='left' alt='Pug' width='26px' src='https://img.icons8.com/color/2x/pug.png'>][pug]
+[<img align='left' alt='Sass' width='26px' src='https://img.icons8.com/color/2x/sass.png'>][sass]
+[<img align='left' alt='TypeScript' width='26px' src='https://img.icons8.com/color/2x/typescript.png'>][typescript]
+[<img align='left' alt='VBScript' width='26px' src=''>][vbscript]
+[<img align='left' alt='' width='26px' src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.tenforums.com%2Fgeek%2Fgars%2Fimages%2F2%2Ftypes%2Fthumb_VBS_file.png&f=1&nofb=1'>][vbscript]
 
 <!-- Links -->
 [vscode]: https://code.visualstudio.com/
@@ -50,3 +58,10 @@
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [d]: https://dlang.org/
 [fortran90]: https://www.fortran90.org/
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML/
+[javascript]: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript/
+[php]: https://www.php.net/
+[pug]: https://pugjs.org/
+[sass]: https://sass-lang.com/
+[typescript]: https://www.typescriptlang.org/
+[vbscript]: https://en.wikipedia.org/wiki/VBScript/
