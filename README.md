@@ -52,7 +52,7 @@ a aprender linguagens de verdade como C#, e com 15 anos eu já sabia backend e f
 Eu ainda não comecei a trabalhar na area por calsa da idade, mas adoraria uma  
 oferta de jovem aprendiz. 😄
 
-#### Entre contato comigo 📱💻😃
+#### Entre em contato comigo 📱💻😃
 
 - Whatsapp: +5551993803517  
 - Facebook: Eliton Lisboa  
