@@ -39,7 +39,13 @@
 [<img align='left' alt='TypeScript' width='26px' src='https://img.icons8.com/color/2x/typescript.png'>][typescript]
 [<img align='left' alt='VBScript' width='26px' src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhelloacm.com%2Fwp-content%2Fuploads%2F2018%2F05%2Fvbscript.png&f=1&nofb=1'>][vbscript]
 [<img align='left' alt='Node' width='26px' src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhumancoders-formations.s3.amazonaws.com%2Fuploads%2Fcourse%2Flogo%2F14%2Fthumb_bigger_formation-node-js.png&f=1&nofb=1'>][node]
-<!-- [<img align='left' alt='' width='26px' src=''>][] -->
+
+<br/><br/>
+#### Sobre mim 😜
+Eu comecei a programar ceso, lá pelos meu 12 ou 13 anos a minha primeira linguagem foi  
+batch script [esse](https://youtu.be/AQXwYR5Mf1o) foi o primeiro video que eu vi sobre programação e o que me influenciou a  
+programar, os comandos basicos dessa linguagem eu aprendi sozinho. Com 14 anos eu comecei  
+a aprender linguagens de verdade como C#, e com 15 anos eu já sabia backend e fontend web.
 
 <!-- Links -->
 [vscode]: https://code.visualstudio.com/
