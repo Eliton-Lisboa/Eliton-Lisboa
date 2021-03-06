@@ -17,9 +17,7 @@
 [<img align='left' alt='Spck' width='26px' src='https://play-lh.googleusercontent.com/R_FnpHpBwRVEA2bGeXMLp4IdfESrnJaKK8Wsx4bLOGLmRXNRozTGSLlsUaw3XyykfHE=s180-rw'>][spck]
 [<img align='left' alt='Vim' width='26px' src='https://www.vim.org/images/vim_small.gif'>][vim]
 
-
-
-
+<br/><br/>
 #### Eu sei todas essas tecnologias aqui em baixo 😃
 
 [<img align='left' alt='Algol68G' width='26px' src='https://a.fsdn.com/allura/p/algol68/icon?1396057608?&w=90'>][algol68g]
@@ -29,6 +27,9 @@
 [<img align='left' alt='C++' width='26px' src='https://img.icons8.com/color/2x/c-plus-plus-logo.png'>][cpp]
 [<img align='left' alt='C#' width='26px' src='https://img.icons8.com/color/2x/c-sharp-logo.png'>][cs]
 [<img align='left' alt='Cobol' width='26px' src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbitlang.gallerycdn.vsassets.io%2Fextensions%2Fbitlang%2Fcobol%2F6.8.5%2F1601756969450%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1'>][cobol]
+[<img align='left' alt='Css' width='26px' src='https://img.icons8.com/color/2x/css3.png'>][css]
+[<img align='left' alt='D' width='26px' src='https://duckduckgo.com/i/c9eadfa8.png'>][d]
+[<img align='left' alt='Fortran90' width='26px' src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb6%2FFortran.png&f=1&nofb=1'>][fortran90]
 
 <!-- Links -->
 [vscode]: https://code.visualstudio.com/
@@ -46,3 +47,6 @@
 [cpp]: https://en.wikipedia.org/wiki/C%2B%2B/
 [cs]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [cobol]: https://en.wikipedia.org/wiki/COBOL/
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[d]: https://dlang.org/
+[fortran90]: https://www.fortran90.org/
