@@ -52,6 +52,13 @@ a aprender linguagens de verdade como C#, e com 15 anos eu já sabia backend e f
 Eu ainda não comecei a trabalhar na area por calsa da idade, mas adoraria uma  
 oferta de jovem aprendiz. 😄
 
+<br/>
+#### Entre contato comigo 📱💻😃
+
+<img align='left' alt='Whatsapp' width='26px' src='https://img.icons8.com/color/2x/whatsapp.png'/> +5551993803517
+<img align='left' alt='Facebook' width='26px' src='https://img.icons8.com/fluent/2x/facebook-new.png'/> Eliton Lisboa
+<img align='left' alt='GitHub' width='26px' src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.shareicon.net%2Fdata%2F2016%2F06%2F20%2F606964_github_4096x4096.png&f=1&nofb=1'/> Eliton-Lisboa
+
 <!-- Links -->
 [vscode]: https://code.visualstudio.com/
 [visualstudio]: https://visualstudio.com/
