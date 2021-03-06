@@ -13,7 +13,7 @@
 [<img align='left' alt='Open Cobol IDE' width='26px' src='https://avatars.githubusercontent.com/u/6609701?s=200&v=4'>][opencobolide]
 [<img align='left' alt='Sublime text' width='26px' src='https://img.icons8.com/fluent/2x/sublime-text.png'>][sublimetext]
 [<img align='left' alt='Git' width='26px' src='https://img.icons8.com/color/2x/git.png'>][git]
-[<img align='left' alt='GitHub' width='26px' src='https://img.icons8.com/windows/2x/github.png'>][github]
+[<img align='left' alt='GitHub' width='26px' src='https://www.pikpng.com/pngl/m/19-198466_github-logo-png-clipart.png'>][github]
 [<img align='left' alt='Spck' width='26px' src='https://play-lh.googleusercontent.com/R_FnpHpBwRVEA2bGeXMLp4IdfESrnJaKK8Wsx4bLOGLmRXNRozTGSLlsUaw3XyykfHE=s180-rw'>][spck]
 [<img align='left' alt='Vim' width='26px' src='https://www.vim.org/images/vim_small.gif'>][vim]
 
