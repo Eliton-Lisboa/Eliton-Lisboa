@@ -3,7 +3,6 @@
 - 🔭 Adoro estudar, estou sempre procurando novas tecnologias
 - 🌱 Amo ensinar programação à novas pessoas
 - 👯 Estou sempre tentando criar novas bibliotecas para ajudar a comunidade 😄
-- 🐱 Adoro animais e a atenção que eles dão
 - 📕 Adoro criar documentações de projetos
 
 #### Eu sei todas essas feramentas abaixo 😅
